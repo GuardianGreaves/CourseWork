@@ -80,7 +80,6 @@ namespace OboskalovKyrsovaiaC_
                     GroupName = groupName,
                     MemberCount = memberCount
                 };
-
                 groupDataList.Add(groupData);
             }
 
